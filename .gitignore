@@ -1,0 +1,19 @@
+# Ignore build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore user-specific files
+.vscode/
+.idea/
+*.user
+*.suo
+*.bak
+
+# Ignore configuration files with sensitive data
+appsettings.json
+appsettings.Development.json
